@@ -16,7 +16,7 @@ Here are some ideas to get you started:
 -->
 
 
-👋 Hi, I’m @cldfelix
-👀 I’m interested in C# & Go & Python & C++.
-🌱 I’m currently learning Go.
-📫 How to reach me cldfelix@usp.br
+- 👋 Hi, I’m @cldfelix
+- 👀 I’m interested in C# & Go & Python & C++.
+- 🌱 I’m currently learning Go.
+- 📫 How to reach me cldfelix@usp.br
